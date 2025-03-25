@@ -109,7 +109,7 @@ Observe the DNS traffic being show in WireShark
 <br />
 
 <p>
-<img width="728" alt="image" src="https://github.com/user-attachments/assets/0016efca-e365-415d-a255-a51d97eacd74" />
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/b62b022c-6af7-48aa-a57e-769fd15889db" />
 </p>
 
 <p>
