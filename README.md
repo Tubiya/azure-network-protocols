@@ -69,8 +69,8 @@ Stop the ping activity
 
 <p>
 <img width="665" alt="image" src="https://github.com/user-attachments/assets/a24ce5d9-c372-45e8-b710-7c2637e4922a" />
-
 </p>
+
 <p>
 (Observe SSH Traffic)
 Log back into the windows-vm
@@ -86,9 +86,8 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 
 <p>
 <img width="727" alt="image" src="https://github.com/user-attachments/assets/006fc0ec-82c8-48d6-aa0f-5d0c30c04361" />
-
-
 </p>
+
 <p>
 (Observe DHCP Traffic)
 Back in Wireshark, filter for DHCP traffic only
@@ -99,7 +98,7 @@ Observe the DHCP traffic appearing in WireShark
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/d646fb98-2872-45fd-b806-5cffe4071a3a" />
 </p>
 <p>
 Observe DNS Traffic)
@@ -110,13 +109,13 @@ Observe the DNS traffic being show in WireShark
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/0016efca-e365-415d-a255-a51d97eacd74" />
 </p>
+
 <p>
 (Observe RDP Traffic)
 Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)
 Observe the immediate non-stop spam of traffic? Why do you think it’s non-stop spamming vs only showing traffic when you do an activity?
 Answer: because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefor traffic is always being transmitted
-
 </p>
 <br />
